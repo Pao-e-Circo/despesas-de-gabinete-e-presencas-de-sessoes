@@ -2,9 +2,6 @@
 INSERT INTO "office_spendings"
 (id, "councilor_id", "month", "materials", "mobile_phone", "fixed_phone", "paper", "airline_tickets", "hotel_rate", "gasoline")
 VALUES
-INSERT INTO "office_spendings"
-(id, "councilor_id", "month", "materials", "mobile_phone", "fixed_phone", "paper", "airline_tickets", "hotel_rate", "gasoline")
-VALUES
 ('a9f3c6e1-2d4b-4f8a-9c7e-1b6d3a8f5c21'::uuid,'2e9d6d6a-2b4c-4e7f-9c6c-8a6b0f3b6d01','2023-01-01',0.00,0.00,0.00,38.32,0.00,0.00,379.60), --
 ('b4e1d7c9-6a2f-4c8e-9d3a-7f1b5c2e8a64'::uuid,'2e9d6d6a-2b4c-4e7f-9c6c-8a6b0f3b6d01','2023-02-01',40.62,0.00,4.14,75.16,0.00,0.00,992.80), --
 ('c7a2d4f6-1b3e-4a9c-8d5f-2e6b1a9c3d78'::uuid,'2e9d6d6a-2b4c-4e7f-9c6c-8a6b0f3b6d01','2023-03-01',11.78,0.00,2.69,73.94,0.00,0.00,992.80), --
